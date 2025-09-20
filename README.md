@@ -1,6 +1,5 @@
 ---
 
-````markdown
 # 🧮 Python GUI Calculator
 
 A clean, modern, and feature-rich calculator built with **Tkinter** in Python. It supports basic arithmetic operations, follows a simple **BIDMAS** rule system, and includes a scrollable history display and update log viewer. Ideal for everyday use, and perfect for learning about GUI programming in Python.
