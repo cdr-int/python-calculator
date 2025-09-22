@@ -6,6 +6,13 @@ A clean, modern, and feature-rich calculator built with **Tkinter** in Python. I
 
 ---
 
+## 🎨 UI Preview
+
+> This is a fully GUI-based calculator. All buttons are styled with customizable colors and fonts. The input field supports horizontal scrolling for long expressions, and the result is displayed with comma formatting.
+<img width="769" height="589" alt="Python Calculator" src="https://github.com/user-attachments/assets/d133ff83-8e42-444c-a3fe-85119f2d7de3" />
+
+---
+
 ## 📦 Features
 
 - Beautiful **Tkinter-based GUI**
@@ -39,11 +46,6 @@ python calculator.py
 
 ---
 
-## 🎨 UI Preview
-
-> This is a fully GUI-based calculator. All buttons are styled with customizable colors and fonts. The input field supports horizontal scrolling for long expressions, and the result is displayed with comma formatting.
-<img width="769" height="589" alt="Python Calculator" src="https://github.com/user-attachments/assets/d133ff83-8e42-444c-a3fe-85119f2d7de3" />
-
 ## 🧰 Keyboard Shortcuts
 
 | Key                            | Action            |
@@ -71,6 +73,8 @@ FONT_MAIN = ("Arial", 24)
 FONT_BUTTON = ("Arial", 18)
 ```
 <img width="1198" height="690" alt="Python Calculator" src="https://github.com/user-attachments/assets/20e85110-0144-406f-8f9d-11007f414857" />
+
+---
 
 ## 📝 Update Log
 
